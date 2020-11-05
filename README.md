@@ -1,6 +1,6 @@
 Files in this repository are created as part of two courses (part of IBM Data Science Specialization in Coursera): 
 
-Capstone Data Science Project: 
+Capstone Data Science Project:
 Title: Prediction of car collision severity in Montreal
 Notebook: Capstone_IBM_Coursera_final.ipynb
 Report: Car Collsion Severity_Capstone Project Report.pdf
